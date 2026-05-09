@@ -1,9 +1,8 @@
-#!/usr/bin/env python3
 """
 ============================================================================
 CodeAlpha Internship - Cybersecurity Domain
 Project: Basic Network Sniffer
-Author: [YOUR NAME]
+Author: Muhammad Wasif
 Date: 2026
 Description:
     A professional network packet sniffer that captures live network traffic,
@@ -110,7 +109,7 @@ def main():
 ===========================================================
         COLDAPHA CYBERSECURITY INTERNSHIP              
         BASIC NETWORK SNIFFER                          
-        Author: [Your Name]                            
+        Author: Muhammad Wasif                          
 ===========================================================
 """
     print(header)
